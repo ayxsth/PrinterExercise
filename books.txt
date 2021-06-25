@@ -1,0 +1,9 @@
+Add	Wikipedia: Java	5
+Add	ACM article: Optimizing Interpreted Languages	7
+Print	1
+Add	Slashdot: News for nerds, stuff that matters	12
+Add	Webmail Message	1
+Add	Homework.doc	4
+Print	3
+Add	Study_Guide.pdf	3
+Print	1
