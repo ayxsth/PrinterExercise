@@ -33,7 +33,7 @@ public class Printer {
                 System.out.println("Number of Pages: " + job.getPages() + "\n");
                 numberOfJobsCompleted++;
                 numberOfPagesCompleted += job.getPages();
-                timeTaken += (double) numberOfJobsCompleted / jobsPerMin;
+                timeTaken += (double) 1 / jobsPerMin;
             }
         }
         return timeTaken;
